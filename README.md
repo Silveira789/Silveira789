@@ -6,6 +6,7 @@
 
 
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Silveira789&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silveira789&layout=compact)
 
 ## Tecnologias
 
