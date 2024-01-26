@@ -7,8 +7,12 @@
 
 </div>
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Silveira789&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silveira789&theme=tokyonight&layout=compact)
+<div aling="center">
+
+  ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=Silveira789&show_icons=true&theme=dark)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Silveira789&theme=tokyonight&layout=compact)
+
+</div>
 
 ## Tecnologias
 
